@@ -4,6 +4,11 @@ Check out the [Application Security Weekly] podcast for interviews and news abou
 
 For even more show notes, more appsec, and a little more synthwave, check out the [Deadliest Web Attacks] site.
 
+Social links
+ - [LinkedIn](https://www.linkedin.com/in/zombie/)
+ - [@Codexatron](https://twitter.com/Codexatron)
+ - [@Codexatron@mastodon.social](https://mastodon.social/@Codexatron)
+
 ![Mike Shema They Live]
 
 
