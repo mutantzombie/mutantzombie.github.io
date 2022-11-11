@@ -8,6 +8,7 @@ Social links
  - [LinkedIn](https://www.linkedin.com/in/zombie/)
  - [@Codexatron](https://twitter.com/Codexatron)
  - [@Codexatron@mastodon.social](https://mastodon.social/@Codexatron)
+ - [linktr.ee/codexatron](https://linktr.ee/codexatron)
 
 ![Mike Shema They Live]
 
