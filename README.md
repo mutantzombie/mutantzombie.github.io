@@ -6,7 +6,6 @@ For even more show notes, more appsec, and a little more synthwave, check out th
 
 Social links
  - [@AppSecWeekly@infosec.exchange](https://infosec.exchange/@AppSecWeekly)
- - [@Codexatron](https://twitter.com/Codexatron)
  - [@Codexatron@mastodon.social](https://mastodon.social/@Codexatron)
  - [LinkedIn](https://www.linkedin.com/in/zombie/)
  - [linktr.ee/Codexatron](https://linktr.ee/codexatron)
