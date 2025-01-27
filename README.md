@@ -1,6 +1,6 @@
 # mutantzombie.github.io
 
-Check out the [Application Security Weekly] podcast for interviews and news about appsec.
+Check out the [Application Security Weekly] podcast for interviews and news about all the ways to find and fix the flaws that plague software. We talk about secure designs, secure defaults, and smarter strategies than just chasing bugs.
 
 For even more show notes, more appsec, and a little more synthwave, check out my [web site].
 
