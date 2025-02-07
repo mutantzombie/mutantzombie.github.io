@@ -1,4 +1,4 @@
-# mutantzombie.github.io
+# A Few Resources
 
 Check out the [Application Security Weekly] podcast for interviews and news about all the ways to find and fix the flaws that plague software. We talk about secure designs, secure defaults, and smarter strategies than just chasing bugs.
 
