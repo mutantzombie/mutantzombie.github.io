@@ -15,6 +15,6 @@ Social links
 
 
 [Application Security Weekly]: https://www.scworld.com/podcast-show/application-security-weekly
-[web site]: https://deadliestwebattacks.com
+[web site]: https://dangerouserrors.com
 [Mike Shema Tardis Top Hat]: assets/mike-shema-tardis-top-hat.png
 [Mike Shema They Live]: assets/mike-shema-they-live.png
