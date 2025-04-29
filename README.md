@@ -6,7 +6,7 @@ For even more show notes, more appsec, and a little more synthwave, check out my
 
 Social links
  - [@mutantzombie.bsky.social](https://bsky.app/profile/mutantzombie.bsky.social)
- - [@aswpodcast.bsky.social](https://bsky.app/profile/aswpodcast.bsky.social)
+ - [@aswpodcast.com](https://bsky.app/profile/aswpodcast.com)
  - [LinkedIn](https://www.linkedin.com/in/zombie/)
  - [linktr.ee/Codexatron](https://linktr.ee/codexatron)
 
