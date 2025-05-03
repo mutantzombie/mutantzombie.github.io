@@ -9,6 +9,7 @@ Social links
  - [@aswpodcast.com](https://bsky.app/profile/aswpodcast.com)
  - [LinkedIn](https://www.linkedin.com/in/zombie/)
  - [linktr.ee/Codexatron](https://linktr.ee/codexatron)
+ - [gravatar.com/mutantzombie](https://gravatar.com/mutantzombie)
 
 ![Mike Shema Tardis Top Hat]
 ![Mike Shema They Live]
