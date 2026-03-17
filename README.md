@@ -11,7 +11,9 @@ Social links
  - [linktr.ee/Codexatron](https://linktr.ee/codexatron)
  - [gravatar.com/mutantzombie](https://gravatar.com/mutantzombie)
 
-Support artists! Check out some of the synthwave and other music I love over at my [Bandcamp collection]. And a few of the films I've supported over on [iMDb].
+Support artists! Check out some of the synthwave and other music I love over at my [Bandcamp collection].
+
+I love movies. I've started to track what I've watched on [Letterboxd]. A few of the ones I've supported are over on [iMDb].
 
 ![Mike Shema Tardis Top Hat]
 ![Mike Shema They Live]
@@ -19,6 +21,7 @@ Support artists! Check out some of the synthwave and other music I love over at 
 [Application Security Weekly]: https://www.scworld.com/podcast-show/application-security-weekly
 [Dangerous Errors]: https://dangerouserrors.com
 [Bandcamp collection]: https://bandcamp.com/codexatron
+[Letterboxd]: https://letterboxd.com/Gyrfalcon/
 [iMDb]: https://www.imdb.com/name/nm8555130/
 [Mike Shema Tardis Top Hat]: assets/mike-shema-tardis-top-hat.png
 [Mike Shema They Live]: assets/mike-shema-they-live.png
