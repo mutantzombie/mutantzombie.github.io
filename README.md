@@ -2,7 +2,7 @@
 
 Check out the [Application Security Weekly] podcast for interviews and news about all the ways to find and fix the flaws that plague software. We talk about secure designs, secure defaults, and smarter strategies than just chasing bugs.
 
-For even more show notes, more appsec, and a little more synthwave, check out my [web site].
+For even more show notes, more appsec, and a little more synthwave, check out my web site at [Dangerous Errors].
 
 Social links
  - [@mutantzombie.bsky.social](https://bsky.app/profile/mutantzombie.bsky.social)
@@ -11,11 +11,14 @@ Social links
  - [linktr.ee/Codexatron](https://linktr.ee/codexatron)
  - [gravatar.com/mutantzombie](https://gravatar.com/mutantzombie)
 
+Support artists! Check out some of the synthwave and other music I love over at my [Bandcamp collection]. And a few of the films I've supported over on [iMDb].
+
 ![Mike Shema Tardis Top Hat]
 ![Mike Shema They Live]
 
-
 [Application Security Weekly]: https://www.scworld.com/podcast-show/application-security-weekly
-[web site]: https://dangerouserrors.com
+[Dangerous Errors]: https://dangerouserrors.com
+[Bandcamp collection]: https://bandcamp.com/codexatron
+[iMDb]: https://www.imdb.com/name/nm8555130/
 [Mike Shema Tardis Top Hat]: assets/mike-shema-tardis-top-hat.png
 [Mike Shema They Live]: assets/mike-shema-they-live.png
