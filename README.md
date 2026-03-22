@@ -1,6 +1,6 @@
 # A Few Resources
 
-Check out the [Application Security Weekly] podcast for interviews and news about all the ways to find and fix the flaws that plague software -- and how to prevent those flaws in the first place. We cover secure designs, secure defaults, and crafting smarter strategies than eternally chasing bugs.
+Check out the *[Application Security Weekly]* podcast for interviews and news about all the ways to find and fix the flaws that plague software -- and preventing those flaws in the first place. We cover secure designs, secure defaults, and crafting smarter strategies than eternally chasing bugs.
 
 For even more show notes, more appsec blog posts, and a few more synthwave recommendations, check out my web site at [Dangerous Errors].
 
