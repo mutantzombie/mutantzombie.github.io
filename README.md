@@ -5,11 +5,12 @@ Check out the [Application Security Weekly] podcast for interviews and news abou
 For even more show notes, more appsec blog posts, and a few more synthwave recommendations, check out my web site at [Dangerous Errors].
 
 Social links
- - [@mutantzombie.bsky.social](https://bsky.app/profile/mutantzombie.bsky.social)
- - [@aswpodcast.com](https://bsky.app/profile/aswpodcast.com)
- - [LinkedIn](https://www.linkedin.com/in/zombie/)
- - [linktr.ee/Codexatron](https://linktr.ee/codexatron)
- - [gravatar.com/mutantzombie](https://gravatar.com/mutantzombie)
+
+- [@mutantzombie.bsky.social](https://bsky.app/profile/mutantzombie.bsky.social)
+- [@aswpodcast.com](https://bsky.app/profile/aswpodcast.com)
+- [LinkedIn](https://www.linkedin.com/in/zombie/)
+- [linktr.ee/Codexatron](https://linktr.ee/codexatron)
+- [gravatar.com/mutantzombie](https://gravatar.com/mutantzombie)
 
 Support artists! Check out some of the synthwave and other music I love over at my [Bandcamp collection].
 
