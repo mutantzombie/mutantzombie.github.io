@@ -13,7 +13,7 @@ Social links
 
 Support artists! Check out some of the synthwave and other music I love over at my [Bandcamp collection].
 
-I love movies, too. I've started tracking what I've watched on [Letterboxd]. A few of the ones I've supported are over on my [iMDb profile].
+I love movies, too. I've started tracking what I've watched on [Letterboxd]. A few of the ones I've supported are over on my [IMDb profile].
 
 ![Mike Shema Tardis Top Hat]
 ![Mike Shema They Live]
@@ -22,6 +22,6 @@ I love movies, too. I've started tracking what I've watched on [Letterboxd]. A f
 [Dangerous Errors]: https://dangerouserrors.com
 [Bandcamp collection]: https://bandcamp.com/codexatron
 [Letterboxd]: https://letterboxd.com/Gyrfalcon/
-[iMDb profile]: https://www.imdb.com/name/nm8555130/
+[IMDb profile]: https://www.imdb.com/name/nm8555130/
 [Mike Shema Tardis Top Hat]: assets/mike-shema-tardis-top-hat.png
 [Mike Shema They Live]: assets/mike-shema-they-live.png
